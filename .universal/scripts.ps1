@@ -1,0 +1,1 @@
+﻿New-PSUScript -Name "dummy.ps1" -Description "dummy.ps1" -Path "dummy.ps1" -InformationAction "SilentlyContinue"

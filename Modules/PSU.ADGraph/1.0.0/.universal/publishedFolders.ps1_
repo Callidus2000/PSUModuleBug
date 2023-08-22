@@ -1,0 +1,2 @@
+﻿$outPath = Get-PSFConfigValue -FullName 'PSU.ADGraph.PublishedFolders.outpath'
+New-PSUPublishedFolder -RequestPath "/adgraph/out" -Path $outpath -Authentication -Name "adGraphOut" #-Role @('Administrator', 'odin Intern')

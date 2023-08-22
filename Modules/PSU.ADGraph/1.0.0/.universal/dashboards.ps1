@@ -1,0 +1,1 @@
+New-PSUApp -Name 'ADGraph' -BaseUrl '/adgraph' -Module 'PSU.ADGraph' -Command 'New-PSUADGraphApp' -Authenticated
