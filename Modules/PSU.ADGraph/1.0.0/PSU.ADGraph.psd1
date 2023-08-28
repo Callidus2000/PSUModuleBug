@@ -42,6 +42,7 @@
 	FunctionsToExport = @(
 		'New-PSUADGraphApp'
 		'Remove-PSUADExports'
+		'Remove-PSUADExportsNoDotSource'
 	)
 
 	# Cmdlets to export from this module
